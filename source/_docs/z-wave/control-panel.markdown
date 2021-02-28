@@ -3,6 +3,13 @@ title: "Z-Wave Control Panel"
 description: "How to use the Z-Wave control panel."
 ---
 
+
+<div class='note warning'>
+
+This integration is deprecated. If you're setting up a new implentation, use [Z-Wave JS](https://www.home-assistant.io/integrations/zwave_js) instead.
+
+</div>
+
 The Z-Wave control panel is available via **Configuration** &rarr; **Integrations** &rarr; **Z-Wave** &rarr; **Configure**.
 
 * **No Z-Wave integration?** Follow the [set up instructions](/docs/z-wave/installation/) to enable it.
